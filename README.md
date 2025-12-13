@@ -17,7 +17,7 @@ In India, many rural and semi-rural women want to work and support their familie
 Because of these issues, rural women are excluded from nearby, small-scale job opportunities even when work is available.
 
 *Hackathon Challenge:*
-Design an AI-based solution that enables rural women to access safe job opportunities *using only voice, including support for **non-smartphone (keypad phone) users*.
+Design an AI-based solution that enables rural women to access safe job opportunities *using only voice
 
 ---
 
