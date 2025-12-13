@@ -71,22 +71,22 @@ The solution removes literacy, language, and technology barriers while prioritiz
 
 4. Overall Architecture (High Level – Real World)
 
-User Voice (Telugu/Hindi/Tamil)
+  User Voice (Telugu/Hindi/Tamil)
         ↓
-Speech-to-Text (STT)
+   Speech-to-Text (STT)
         ↓
-Intent Detection (NLP)
+  Intent Detection (NLP)
         ↓
-Agent Orchestrator
+ Agent Orchestrator
    ├── Job Search Agent (RAG)
    ├── Safety & Language Agent
    ├── Notification Agent
         ↓
-LLM Reasoning (Your API Key)
+ LLM Reasoning (Your API Key)
         ↓
-Text-to-Speech (TTS)
+ Text-to-Speech (TTS)
         ↓
-Voice Response / Call / Audio
+ Voice Response / Call / Audio
 
 ---
 
