@@ -32,7 +32,6 @@ Design an AI-based solution that enables rural women to access safe job opportun
 ### How the Solution Works
 
 * *Smartphone users* interact with the AI using voice
-* *Keypad phone users* can *call a toll-free number* and interact with the AI through an IVR-based voice system
 * No reading, typing, or app installation is required
 * AI understands the user’s intent, retrieves relevant jobs, and responds with *spoken guidance*
 
@@ -58,7 +57,6 @@ The solution removes literacy, language, and technology barriers while prioritiz
 
 * Speech-to-Text (STT)
 * Text-to-Speech (TTS)
-* IVR / Telephony API (toll-free calling support)
 
 ### Data
 
