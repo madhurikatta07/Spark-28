@@ -16,6 +16,10 @@ Limited access to smartphones apps — mostly use voice calls or WhatsApp audio
 
 Because of these challenges, existing job portals are not usable for this group, even though job opportunities exist nearby.
 
+
+---
+
+
 🎯 Our Solution: Voice Bridge
 
 Voice Bridge is a voice-first AI job assistant designed specifically for illiterate and rural women.
@@ -40,6 +44,10 @@ RAG (Retrieval-Augmented Generation) to avoid fake or hallucinated jobs
 
 Text-to-Speech to respond in a friendly, accessible way
 
+
+---
+
+
 👩‍🌾 Target Users
 
 Rural / semi-rural women
@@ -54,7 +62,13 @@ Tailoring
 
 Farm or local labor jobs
 
+based on thier art  work also
+
 Users who prefer voice interaction over text
+
+
+---
+
 
 📌 Key Assumptions
 
@@ -77,6 +91,10 @@ Safety is more important than salary
 Internet connectivity may be slow but available
 
 Users do not want to share personal details unnecessarily
+
+
+---
+
 
 🛡️ Ethical Considerations (Early Design)
 
