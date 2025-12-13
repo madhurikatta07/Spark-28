@@ -69,7 +69,28 @@ The solution removes literacy, language, and technology barriers while prioritiz
 
 ---
 
-4. Conclusion
+4. Overall Architecture (High Level – Real World)
+
+User Voice (Telugu/Hindi/Tamil)
+        ↓
+Speech-to-Text (STT)
+        ↓
+Intent Detection (NLP)
+        ↓
+Agent Orchestrator
+   ├── Job Search Agent (RAG)
+   ├── Safety & Language Agent
+   ├── Notification Agent
+        ↓
+LLM Reasoning (Your API Key)
+        ↓
+Text-to-Speech (TTS)
+        ↓
+Voice Response / Call / Audio
+
+---
+
+5. Conclusion
 
 *Voice Bridge* demonstrates how *AI-powered voice technology* can create inclusive solutions for real social problems.
 
