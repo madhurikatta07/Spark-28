@@ -1,6 +1,11 @@
 # Voice Bridge 🚺🎙
+
 *Hackathon Proof of Concept (PoC)*
+
+---
+
 1. Problem Statement
+
 In India, many rural and semi-rural women want to work and support their families but are unable to access job opportunities due to multiple real-world barriers:
 
 * Many women are *illiterate or semi-literate* and cannot read or write
@@ -12,8 +17,9 @@ In India, many rural and semi-rural women want to work and support their familie
 Because of these issues, rural women are excluded from nearby, small-scale job opportunities even when work is available.
 
 *Hackathon Challenge:*
-
 Design an AI-based solution that enables rural women to access safe job opportunities *using only voice, including support for **non-smartphone (keypad phone) users*.
+
+---
 
 2. Solution
 
@@ -34,7 +40,7 @@ The solution removes literacy, language, and technology barriers while prioritiz
 
 ---
 
-## 3. Tech Stack (Hackathon-Oriented)
+3. Tech Stack (Hackathon-Oriented)
 
 ### Backend
 
@@ -62,6 +68,8 @@ The solution removes literacy, language, and technology barriers while prioritiz
 ### Development Tools
 
 * Git & GitHub
+
+---
 
 4. Conclusion
 
